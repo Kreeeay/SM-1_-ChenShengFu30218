@@ -1,0 +1,3 @@
+Mean : < S > =  (S+1)/2
+Variance : £m^2 =  ((S+1)(S-1))/12
+Standard deviation :  £m =  ¡Ô(((S+1)(S-1))/12)
