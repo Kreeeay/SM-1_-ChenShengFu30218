@@ -1,5 +1,0 @@
-problem0
-
-4.increase ,the magnitude (absolute value) of the differences between the number of times a given side occurs and one-sixth of the number of trials increase
-
-5.yes ,the ratio of the number of times each side occurs to the total number of trials approach closer to 1/6
